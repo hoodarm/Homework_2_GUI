@@ -24,8 +24,8 @@ public class GUI extends JFrame {
 
             if (confirmed == JOptionPane.YES_OPTION) {
                 System.exit(0);
-        }
-    });
+            }
+        });
 
         //Has an integer "state" variable in its application, initialized with 0
         final int[] state = {0};
