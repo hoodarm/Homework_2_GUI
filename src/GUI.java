@@ -47,7 +47,7 @@ public class GUI extends JFrame {
         frame.add(panel);
         panel.add(menuBar);
         panel.add(stateLabel);
-        frame.setTitle("Homework_1_GUI");
+        frame.setTitle("Homework_2_GUI");
         frame.setJMenuBar(menuBar);
         frame.setVisible(true);
         panel.setVisible(true);
